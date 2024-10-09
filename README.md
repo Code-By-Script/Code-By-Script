@@ -8,10 +8,24 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Code-By-Script&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Code-By-Script&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Script&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## Previous Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1cg6asDpq9s" frameborder="0" allowfullscreen></iframe>
+<p>99.99% Cant Beat This Game
+
+<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Code-By-Script&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
