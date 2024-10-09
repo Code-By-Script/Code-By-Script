@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Steam](https://img.shields.io/badge/Steam-%2300BFFF.svg?style=flat&logo=steam&logoColor=white)](https://store.steampowered.com/app/2248480/Fruit_Switch/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fruitswitchdeveloper) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CodeByScript)
 
@@ -14,15 +15,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Code-By-Script&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Script&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Previous Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1cg6asDpq9s" frameborder="0" allowfullscreen></iframe>
-<p>99.99% Cant Beat This Game
-
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+
+
+https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
+
 
 
 
