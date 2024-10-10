@@ -7,12 +7,25 @@
 
 🔗 Check out my Steam page here: https://store.steampowered.com/app/2248480/Fruit_Switch/<br>🔭 Currently working on Fruit Switch 🍉🍊! Follow my journey on YouTube: https://www.youtube.com/@FruitSwitch<br>🤔 Ask me about: Game development 🕹️ C# programming 💻<br>🎉Fun Fact: My game is almost ready for release!
 
+<h1>💻 Tutorial Topics:</h1>
+<table>
+<tr>
+    <td><b class="tech-name">🎮Unity </b><span class="underline"></span></td>
+    <td><b class="tech-name">🌐.NET</b><span class="underline"></span></td>
+      <td><b class="tech-name">🧑‍💻C#</b><span class="underline"></span></td>
+      
+  </tr>
+    <td><a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60px"></a></td>
+    <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></a></td>
+     <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"></a></td>
+  
+   
+  </tr>
+</table>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
-# 🍉 Fruit Switch: A Colorful Challenge
+# 🍉 Fruit Switch: A Colorful Challenge:
 
 Fruit Switch is a fun and engaging puzzle game where players match and switch colorful fruits to clear levels and achieve high scores. With vibrant graphics and a variety of fruit types, each level presents unique challenges and puzzles that test your strategic thinking and quick reflexes. 
 
