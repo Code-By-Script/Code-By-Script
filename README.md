@@ -1,4 +1,10 @@
 # 💫 About Me:
+
+- 👋 Creator of **Fruit Switch** 🍉🍊<br>
+- 💻 Passionate about coding & game development<br>
+- 📚 Providing tutorials for fellow learners<br>
+
+
 🔗 Check out my Steam page here: https://store.steampowered.com/app/2248480/Fruit_Switch/<br>🔭 Currently working on Fruit Switch 🍉🍊! Follow my journey on YouTube: https://www.youtube.com/@FruitSwitch<br>🤔 Ask me about: Game development 🕹️ C# programming 💻<br>🎉Fun Fact: My game is almost ready for release!
 
 
