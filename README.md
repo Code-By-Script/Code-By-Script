@@ -7,7 +7,7 @@ In my GitHub profile, I've organized my work into different categories. Each cat
 
 ### Guided Projects:
 
-- **C# Tasks (Video-guided) 💻** 💻 
+- **C# Tasks (Video-guided) 💻** 
 - **Unity Development (Future Video-guided Projects) 🎮**   
 
 ## 🚀 Explore My Work!
