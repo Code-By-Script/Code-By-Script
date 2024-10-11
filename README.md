@@ -1,3 +1,26 @@
+# Welcome to My GitHub Profile! 🌟
+
+## 🗺️ Navigating My Projects
+
+In my GitHub profile, I've organized my work into different categories. Each category contains projects with tasks and work related to various topics. You can find all my completed tasks categorized below.
+
+
+### Guided Projects:
+
+- **C# Tasks (Video-guided) 💻** 💻 
+- **Unity Development (Future Video-guided Projects) 🎮**   
+
+## 🚀 Explore My Work!
+
+**You can explore all my projects and discover more of my work by visiting my [Projects](https://github.com/PlutoGamerpro?tab=stars), where I have organized my repositories into various categories!**
+
+## Important Note:
+The code for **Fruit Switch** is not available for sharing, as it is part of a professional project and holds significant value.
+
+*Feel free to check out the other projects listed above!*
+
+
+
 # 💫 About Me:
 
 - 👋 Creator of **Fruit Switch** 🍉🍊<br>
