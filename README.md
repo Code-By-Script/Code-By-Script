@@ -11,6 +11,7 @@
 - 📊 [GitHub Stats](#github-stats)
 - ✍️ [Random Dev Quote](#random-dev-quote)
 
+- 🗺️ [TEST](navigating-my-projects)
 ---
 
 ## 🗺️ Navigating My Projects
