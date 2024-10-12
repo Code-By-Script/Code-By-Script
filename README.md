@@ -1,8 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-
 ## 📑 Table of Contents
-- 🗺️ [Navigating My Projects](#Navigating-My-Projects)
+- 🗺️ [Navigating My Projects](#navigating-my-projects)
 - 💫 [About Me](#about-me)
 - 💻 [Tutorial Topics](#tutorial-topics)
 - 🔮 [Future Tutorial Topics](#future-tutorial-topics)
@@ -62,8 +61,9 @@ Fruit Switch is a fun and engaging **puzzle game** where players match and switc
 
 As you progress through the game, you'll encounter **power-ups** and **special fruit combinations** to help you overcome tricky obstacles. Fruit Switch is perfect for players of all ages who enjoy **casual gaming** with a twist. Dive into this fruity adventure and see how many levels you can conquer! 🍭 
 
-
 ---
+
+
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 ## 🌐 Fruit Switch Social Media
 
