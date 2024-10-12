@@ -2,7 +2,7 @@
 
 
 ## 📑 Table of Contents
-- 🗺️ [Navigating My Projects](#navigating-my-projects)
+- 🗺️ [Navigating My Projects](#Navigating-My-Projects)
 - 💫 [About Me](#about-me)
 - 💻 [Tutorial Topics](#tutorial-topics)
 - 🔮 [Future Tutorial Topics](#future-tutorial-topics)
