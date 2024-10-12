@@ -1,16 +1,15 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-## Table of Contents
-- [Navigating My Projects](#navigating-my-projects)
-- [About Me](#about-me)
-- [Tutorial Topics](#tutorial-topics)
-- [Future Tutorial Topics](#future-tutorial-topics)
-- [Fruit Switch: A Colorful Challenge](#fruit-switch-a-colorful-challenge)
-- [Fruit Switch Social Media](#fruit-switch-social-media)
-- [Code-By-Script Tutorials](#code-by-script-tutorials)
-- [GitHub Stats](#github-stats)
-- [Random Dev Quote](#random-dev-quote)
-
+## 📑 Table of Contents
+- 🗺️ Navigating My Projects
+- 💫 About Me
+- 💻 Tutorial Topics
+- 🔮 Future Tutorial Topics
+- 🍉 Fruit Switch: A Colorful Challenge
+- 🌐 Fruit Switch Social Media
+- 📚 Code-By-Script Tutorials
+- 📊 GitHub Stats
+- ✍️ Random Dev Quote
 
 ---
 
@@ -40,7 +39,7 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
-## Tutorial Topics 💻
+## 💻 Tutorial Topics
 
 | 🌐 **.NET** | 🧑‍💻 **C#** |
 |-------------|--------------|
@@ -63,26 +62,25 @@ Fruit Switch is a fun and engaging **puzzle game** where players match and switc
 As you progress through the game, you'll encounter **power-ups** and **special fruit combinations** to help you overcome tricky obstacles. Fruit Switch is perfect for players of all ages who enjoy **casual gaming** with a twist. Dive into this fruity adventure and see how many levels you can conquer! 🍭 
 
 ---
-
-
 https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
+
+
+
 ## 🌐 Fruit Switch Social Media
 
 | **Steam 🎮** | **Twitter 🐦** | **YouTube 📺** |
-|-----------|-------------|--------------|
+|---------------|----------------|-----------------|
 | [![Steam](https://img.icons8.com/?size=48&id=zNqjI8XKkCv0&format=png)](https://store.steampowered.com/app/2248480/Fruit_Switch/) | [![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/Fruit_Switch) | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@FruitSwitch) |
 
 ---
-## 📚 Code-By-Script-Tutorials
+
+## 📚 Code-By-Script Tutorials
 
 | **YouTube 📺** |
-|-------------|
+|----------------|
 | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
 
-
 ---
-
-
 
 ## 📊 GitHub Stats
 
@@ -93,8 +91,3 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 ### ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
