@@ -1,5 +1,19 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
+
+## 📑 Table of Contents
+- 🗺️ [Navigating My Projects](#navigating-my-projects)
+- 💫 [About Me](#about-me)
+- 💻 [Tutorial Topics](#tutorial-topics)
+- 🔮 [Future Tutorial Topics](#future-tutorial-topics)
+- 🍉 [Fruit Switch: A Colorful Challenge](#fruit-switch-a-colorful-challenge)
+- 🌐 [Fruit Switch Social Media](#fruit-switch-social-media)
+- 📚 [Code-By-Script Tutorials](#code-by-script-tutorials)
+- 📊 [GitHub Stats](#github-stats)
+- ✍️ [Random Dev Quote](#random-dev-quote)
+
+---
+
 ## 🗺️ Navigating My Projects
 
 Welcome to my GitHub profile! Here, you'll find a collection of my work organized into categories, showcasing a variety of exciting projects. Below are the highlights of my completed tasks:
@@ -18,19 +32,7 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
-## 🚀 Explore My Work! 
-
-🌈 Discover more by visiting my [**Projects**](https://github.com/Code-By-Script?tab=stars) page, where I have organized my repositories into various categories! 
-
----
-
-## ⚠️ Important Note:
-🚫 The code for **Fruit Switch** is **not available for sharing** as it is part of a **professional project** with significant value.  
-
-✨ *Feel free to check out the other projects listed above!*
-
-
-# 💫 About Me
+## 💫 About Me
 
 - 👋 Creator of **Fruit Switch** 🍉🍊  
 - 💻 Passionate about **coding & game development**  
@@ -38,13 +40,7 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
-🔗 **Check out my Steam page:** [Fruit Switch](https://store.steampowered.com/app/2248480/Fruit_Switch/)  
-🔭 **Currently working on:** Fruit Switch! Follow my journey on **YouTube:** [YouTube Channel](https://www.youtube.com/@FruitSwitchTeam)  
-🎉 **Fun Fact:** My game is almost ready for release!  
-
----
-
-# 💻 Tutorial Topics
+## 💻 Tutorial Topics
 
 | 🌐 **.NET** | 🧑‍💻 **C#** |
 |-------------|--------------|
@@ -52,7 +48,7 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
-# 🔮 Future Tutorial Topics
+## 🔮 Future Tutorial Topics
 
 | 🎮 **Unity** |
 |--------------|
@@ -60,12 +56,11 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
-# 🍉 Fruit Switch: A Colorful Challenge
+## 🍉 Fruit Switch: A Colorful Challenge
 
 Fruit Switch is a fun and engaging **puzzle game** where players match and switch colorful fruits to clear levels and achieve high scores! 🌈 With vibrant graphics and a variety of fruit types, each level presents unique challenges that test your strategic thinking and quick reflexes.
 
-As you progress through the game, you'll encounter **power-ups** and **special fruit combinations** to help you overcome tricky obstacles. Fruit Switch is perfect for players of all ages who enjoy **casual gaming** with a twist. Dive into this fruity adventure and see how many levels you can conquer! 🍭
-
+As you progress through the game, you'll encounter **power-ups** and **special fruit combinations** to help you overcome tricky obstacles. Fruit Switch is perfect for players of all ages who enjoy **casual gaming** with a twist. Dive into this fruity adventure and see how many levels you can conquer! 🍭 
 
 
 ---
@@ -86,7 +81,7 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Script&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&random=123456)
 
@@ -96,9 +91,6 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Code-By-Script&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
