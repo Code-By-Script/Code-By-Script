@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 ## 📑 Table of Contents
-- 🗺️ [Navigating My Projects](#navigating-my-projects)
+- 🗺️ [Navigating My Projects](https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313)
 - 💫 [About Me](#about-me)
 - 💻 [Tutorial Topics](#tutorial-topics)
 - 🔮 [Future Tutorial Topics](#future-tutorial-topics)
