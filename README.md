@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 ## 📑 Table of Contents
-- 🗺️ [Navigating My Projects](#navigatingmyprojects)
+- 🗺️ [Navigating My Projects](#navigating_my_projects)
 - 💫 [About Me](#about-me)
 - 💻 [Tutorial Topics](#tutorial-topics)
 - 🔮 [Future Tutorial Topics](#future-tutorial-topics)
