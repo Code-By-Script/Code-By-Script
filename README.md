@@ -1,13 +1,13 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-## 📑 Table of Contents
+## Table of Contents
 - [Navigating My Projects](#navigating-my-projects)
 - [About Me](#about-me)
 - [Tutorial Topics](#tutorial-topics)
 - [Future Tutorial Topics](#future-tutorial-topics)
 - [Fruit Switch: A Colorful Challenge](#fruit-switch-a-colorful-challenge)
 - [Fruit Switch Social Media](#fruit-switch-social-media)
-- [📚 Code-By-Script Tutorials](#📚-code-by-script-tutorials)
+- [Code-By-Script Tutorials](#code-by-script-tutorials)
 - [GitHub Stats](#github-stats)
 - [Random Dev Quote](#random-dev-quote)
 
@@ -40,7 +40,7 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
-## 💻 Tutorial Topics
+## Tutorial Topics 💻
 
 | 🌐 **.NET** | 🧑‍💻 **C#** |
 |-------------|--------------|
@@ -79,7 +79,10 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 |-------------|
 | [![YouTube](https://img.icons8.com/?size=48&id=19318&format=png)](https://www.youtube.com/@CodeByScript) |
 
+
 ---
+
+
 
 ## 📊 GitHub Stats
 
