@@ -7,7 +7,7 @@
 - 🔮 Future Tutorial Topics
 - 🍉 Fruit Switch: A Colorful Challenge
 - 🌐 Fruit Switch Social Media
-- 📚 Code-By-Script Tutorials
+- 📚 Code-By-Script Tutorials Social Media
 - 📊 GitHub Stats
 - ✍️ Random Dev Quote
 
