@@ -1,15 +1,15 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 ## 📑 Table of Contents
-- 🗺️ [Navigating My Projects](#navigating_my_projects)
-- 💫 [About Me](#about-me)
-- 💻 [Tutorial Topics](#tutorial-topics)
-- 🔮 [Future Tutorial Topics](#future-tutorial-topics)
-- 🍉 [Fruit Switch: A Colorful Challenge](#fruit-switch-a-colorful-challenge)
-- 🌐 [Fruit Switch Social Media](#fruit-switch-social-media)
-- 📚 [Code-By-Script Tutorials](#code-by-script-tutorials)
-- 📊 [GitHub Stats](#github-stats)
-- ✍️ [Random Dev Quote](#random-dev-quote)
+- [Navigating My Projects](#navigating-my-projects)
+- [About Me](#about-me)
+- [Tutorial Topics](#tutorial-topics)
+- [Future Tutorial Topics](#future-tutorial-topics)
+- [Fruit Switch: A Colorful Challenge](#fruit-switch-a-colorful-challenge)
+- [Fruit Switch Social Media](#fruit-switch-social-media)
+- [Code-By-Script Tutorials](#code-by-script-tutorials)
+- [GitHub Stats](#github-stats)
+- [Random Dev Quote](#random-dev-quote)
 
 
 ---
@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/74fd2df4-847b-4fda-af3c-b86232c6c313
 
 ---
 
-## 📚 Code-By-Script Tutorials
+## Code-By-Script Tutorials
 
 | **YouTube 📺** |
 |-------------|
