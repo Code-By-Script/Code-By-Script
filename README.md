@@ -31,6 +31,14 @@ Learn the **basics of C#** through guided videos covering topics like **variable
 
 ---
 
+## 🚀 Explore My Work!
+
+🌟 Dive into my projects and discover more of my work by visiting my repositories! I've organized them into various categories to help you find what you're looking for. Check them out here:  
+👉 [**Explore My Projects**](https://github.com/Code-By-Script?tab=stars)  
+
+---
+
+
 ## 💫 About Me
 
 - 👋 Creator of **Fruit Switch** 🍉🍊  
