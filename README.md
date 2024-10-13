@@ -1,5 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
+## [![View Count](https://visitcount.itsvg.in/api?id=Code-By-Script&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 📑 Table of Contents
 - 🗺️ Navigating My Projects
 - 💫 About Me
